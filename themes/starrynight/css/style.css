@@ -1,11 +1,14 @@
+@import "header.css";
+@import "startMain.css";
+@import "footer.css";
+
 body {
-    background-color: #244543;
-    color: #CFB408;
+    background-color: #8149A6;
 }
 
 p {
-    color: #CFB408;
     padding: 2em;
+    color: #ffffff;
 }
 
 * {
@@ -68,7 +71,7 @@ body {
 }
 
 .title * {
-    color: #CFB408;
+    color: #ffffff;
 }
 
 .title p {
@@ -81,10 +84,16 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #222;
+    background-color: #0D0407;
+}
+
+.footer p {
+    color: #ffffff;
 }
 
 .footer a {
-    color: #222;
+    color: #ffffff;
+    padding: 0.5em;
 }
 
 .footer .social {

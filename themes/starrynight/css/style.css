@@ -3,6 +3,11 @@ body {
     color: #CFB408;
 }
 
+p {
+    color: #CFB408;
+    padding: 2em;
+}
+
 * {
     box-sizing: border-box;
     border: 0 none;

@@ -1,0 +1,20 @@
+.header {
+    background-color: #3C1159;
+}
+
+.site-header {
+   margin: auto;
+}
+
+.logo {
+    filter: invert(1);
+    max-width: 200px;
+}
+
+.fa-bars {
+    color: #fff;
+}
+
+.header a {
+    color: #fff;
+}

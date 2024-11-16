@@ -1,0 +1,16 @@
+.main {
+    color: #ffffff;
+    max-width: 80%;
+    margin: auto;
+}
+
+.main h1 {
+    margin: auto;
+    padding-left: 2em;
+    margin-top: 2em;
+}
+
+.main img {
+    max-width: 300px;
+    margin: auto;
+}

@@ -1,0 +1,74 @@
+/*Individual-tech.scss*/
+
+@media (min-width: 600px) {
+  .landingpage h2 {
+    grid-column: 2/ span 2;
+    justify-self: center;
+  }
+
+  .tech-container {
+    grid-column: 2/ span 2;
+  }
+
+  .tech-container p,
+  pre {
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+  
+  .backbtn {
+    color: $accent-color;
+    background-color: $background-dark-purple;
+    padding: 1em;
+    border-radius: 10px;
+  }
+
+  .individual-nav {
+    grid-column: 1/ span 1;
+  }
+
+  .individual-box {
+    background-color: $background-dark-purple;
+    padding: 1em 0.5em;
+    margin: 0.5em;
+    border-radius: 5px;
+  }
+
+  .individual-box a {
+    color: $accent-color;
+  }
+
+  .active-tech {
+    background-color: #5e3579;
+    color: $font-color;
+  }
+
+}
+
+@media (max-width: 600px) {
+  .individual-nav {
+    display: none;
+  }
+
+  .tech-container {
+    grid-column: 1/ span 3;
+  }
+
+  .landingpage h2 {
+    grid-column: 1/ span 3;
+    justify-self: center;
+  }
+
+  .tech-container p,
+  pre {
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+
+  .backbtn {
+    color: $accent-color;
+    background-color: $background-dark-purple;
+    padding: 1em;
+    border-radius: 10px;
+  }
+}

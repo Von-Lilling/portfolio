@@ -1,7 +1,7 @@
 ---
 Title: GIT info
 Description: Information about GIT
-Template: technologies
+Template: technology
 ---
 
 ## Git

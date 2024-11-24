@@ -1,7 +1,7 @@
 ---
 Title: PYTHON info
 Description: Information about PYTHON
-Template: technologies
+Template: technology
 ---
 
 ## Python

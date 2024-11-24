@@ -1,7 +1,7 @@
 ---
 Title: JAVASCRIPT info
 Description: Information about JAVASCRIPT
-Template: technologies
+Template: technology
 ---
 
 ## JavaScript

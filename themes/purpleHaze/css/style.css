@@ -6607,7 +6607,7 @@ ul {
 }
 
 .footer {
-  background-color: black;
+  background-color: #000000;
   display: flex;
   justify-content: space-between;
   padding: 0.5em;
@@ -6617,4 +6617,9 @@ ul {
 .social i {
   font-size: 2em;
   padding: 0.3em;
+}
+
+/*technologies.scss*/
+.landingpage {
+  display: grid;
 }

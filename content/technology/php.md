@@ -54,6 +54,6 @@ for ($i = 1; $i <= 100; $i++) {
 ?>
 ```
 
-<a class="backbtn" href="../technologies">Back to technologies</a>
+<a class="backbtn" href="../technology">Back to technologies</a>
 
 </div>

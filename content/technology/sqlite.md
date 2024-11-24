@@ -40,6 +40,6 @@ Template: technology
 
 SQLite är en filbaserad databas som använder sig av frågespråket Structured Query Language (SQL). Datatyper som man kan använda sig av är begränsade i förhållande till exempelvis MySQL eller PostGreSQL.
 
-<a class="backbtn" href="../technologies">Back to technologies</a>
+<a class="backbtn" href="../technology">Back to technologies</a>
 
 </div>

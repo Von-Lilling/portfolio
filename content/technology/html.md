@@ -47,6 +47,6 @@ HTML använder sig av element beskrivna av taggar. Nedan är ett exempel på ett
 ```html
 <p>En länk till min <a href="minwebbplats.html">webbplats</a></p>
 ```
-<a class="backbtn" href="../technologies">Back to technologies</a>
+<a class="backbtn" href="../technology">Back to technologies</a>
 
 </div>

@@ -44,6 +44,6 @@ Att Git är ett distribuerat system innebär att inget centralt arkiv behövs. E
 
 Git är tradionellt sett ett CLI verktyg, men en del GUI baserade verktyg har utvecklats för att underlätta tröskeln att börja med Git.
 
-<a class="backbtn" href="../technologies">Back to technologies</a>
+<a class="backbtn" href="../technology">Back to technologies</a>
 
 </div>

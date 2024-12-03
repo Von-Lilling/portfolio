@@ -1,0 +1,68 @@
+/*technologies.scss*/
+
+.landingpage {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 33% 33% 33%;
+    justify-content: center;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .landingpage h1 {
+    grid-column: span 3;
+    justify-self: center;
+  }
+  
+  @media (min-width: 600px) {
+    .box {
+      padding: 2em;
+      background-color: $dark-tech;
+      border-radius: 5px;
+    }
+  
+    .css {
+      grid-column: 1/ span 2;
+      grid-row: 2/2;
+    }
+  
+    .html {
+      grid-column: 3/ span 1;
+      grid-row: 2/2;
+    }
+  
+    .javascript {
+      grid-column: 1/ span 1;
+      grid-row: 3/3;
+    }
+  
+    .php {
+      grid-column: 2/ span 2;
+      grid-row: 3/3;
+    }
+  
+    .python {
+      grid-column: 1/ span 2;
+      grid-row: 4/4;
+    }
+  
+    .git {
+      grid-column: 3/ span 1;
+      grid-row: 4/4;
+    }
+  
+    .sqlite {
+      grid-column: span 3;
+      grid-row: 5/5;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .box {
+      grid-column: span 3;
+      padding: 2em;
+      background-color: $dark-tech;
+      border-radius: 5px;
+    }
+  }
+  

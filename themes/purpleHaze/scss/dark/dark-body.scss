@@ -1,0 +1,56 @@
+body {
+    background-color: $dark-background;
+    margin: auto;
+  }
+  
+  * {
+    font-family: 'Roboto', sans-serif;
+    color: $dark-text;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Teko', sans-serif;
+    color: $dark-titles;
+    text-align: center;
+  }
+  
+  .main {
+    max-width: 80%;
+    margin: auto;
+  }
+  
+  .main p {
+    max-width: 600px;
+    margin: auto;
+    padding: 1em;
+  }
+  
+  .main h1 {
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
+  
+  table {
+    margin: auto;
+    padding: 1em;
+    max-width: 600px;
+  }
+  
+  ol {
+    margin: auto;
+    padding: 1em;
+    max-width: 600px;
+  }
+  
+  ul {
+    margin: auto;
+    padding: 1em;
+    max-width: 600px;
+  }
+  

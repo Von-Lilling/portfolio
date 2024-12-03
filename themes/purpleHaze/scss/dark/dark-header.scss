@@ -1,0 +1,26 @@
+.header {
+    background-color: $dark-alt-background;
+  }
+  
+  .site-header {
+    margin: auto;
+  }
+  
+  .fa-bars {
+    color: $dark-titles;
+  }
+  
+  .header a {
+    color: $dark-text;
+  }
+  
+  .site-header {
+    display: flex;
+    margin: auto;
+    padding: 1em;
+  }
+  
+  .title {
+    margin-top: 2em;
+  }
+  

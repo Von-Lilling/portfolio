@@ -1,0 +1,23 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+
+    <div class="main" role="main">
+        <div class="gallery-page">
+            <h1>Gallery</h1>
+                {{ content }}
+        </div>
+            <div class="video-section">
+                <h2>Video</h2>
+                    <p>Here is a song that I find matching the aesthetic of the gallery!</p>
+                        <div class="embed-container">
+                            <iframe src="https://www.youtube.com/embed/PwO5nWgXtLQ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+            </div>
+    </div>
+    
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>
